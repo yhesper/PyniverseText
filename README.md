@@ -2,3 +2,5 @@
 This is my term project for 15-112 at CMU. It is a drawing python text editor with multiple features including auto-indenting, multi-line commenting and indenting, and also its own little interpreter.
 
 ![demo](demo.png)
+
+Video demo: https://youtube.com/watch?v=1g6zsSStdms
